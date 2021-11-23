@@ -1,18 +1,3 @@
-<a href="https://nbviewer.jupyter.org/github/OpenSourceEconomics/ose-data-science-course-projeect-s6emschw/blob/master/E_Schwab_Data_Sci_Project.ipynb?flush_cache=false"
-   target="_parent">
-   <img align="center"
-  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
-      width="109" height="20">
-</a>
-<a href="https://mybinder.org/v2/gh/OpenSourceEconomics/ose-data-science-course-projeect-s6emschw/master?filepath=E_Schwab_Data_Sci_Project.ipynb?flush_cache=true"
-    target="_parent">
-    <img align="center"
-       src="https://mybinder.org/badge_logo.svg"
-       width="109" height="20">
-</a>
-
-![Continuous Integration](https://github.com/OpenSourceEconomics/ose-data-science-course-projeect-s6emschw/workflows/Continuous%20Integration/badge.svg)
-
 # Project for the course in OSE Data Science | Summer 2021, M.Sc. Economics, Bonn University | Emily Schwab
 
 My final project for the OSE Data Science course replicates the results published in the following journal article:
@@ -23,9 +8,7 @@ The published article as well as the project's data set and corresponding code c
 
 ## How to view this notebook:
 
-* To view this notebook, please download the project's [GitHub repository](https://github.com/OpenSourceEconomics/ose-data-science-course-projeect-s6emschw). Alternatively, it is possible to use _MyBinder_ or _NBViewer_. In the case that the causal graph images located in section 4 of the notebook do not appear while using these alternative viewing options, they are also available in the repository's [files](https://github.com/OpenSourceEconomics/ose-data-science-course-projeect-s6emschw/tree/master/files) folder. 
-
-* **Note:** Since I last tried rendering my notebook using the alternative viewing options, _NBViewer_ continues to show an old version of my notebook. To see the final version, I recommend viewing the project notebook locally or with _MyBinder_. 
+* To view this notebook, please download the project's [GitHub repository](https://github.com/s6emschw/data-science-replication-project).
 
 ## Final Project Summary
 
