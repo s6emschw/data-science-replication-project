@@ -1,0 +1,23 @@
+name: student_project
+
+channels:
+- conda-forge
+
+dependencies:
+- numpy
+- pandas
+- jupyterlab
+- scikit-learn
+
+- matplotlib
+
+- seaborn
+- scipy
+- statsmodels
+- IPython
+
+- pip
+- pip:
+  - stargazer
+
+
